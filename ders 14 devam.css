@@ -1,0 +1,57 @@
+/*
+
+abbr[title] {
+    color: red;
+}
+
+img[alt] {
+    background: green;
+}
+
+img[height] {
+    background: blue;
+}
+
+
+
+a[target="_blank"] {
+    color: green;
+}
+
+img[alt=""] {
+    background: blue;
+}
+
+img[width="150"] {
+    background: red;
+}
+
+
+
+div[class|="box"] {
+    background: yellow;
+}
+
+
+
+div[class^="bo"] {
+    background: yellow;
+}
+
+
+
+div[class$="box"] {
+    background: yellow;
+}
+
+
+
+div[class*="title"] {
+    background: yellow;
+}
+
+*/
+
+div[class*="top" i] {
+    background: yellow;
+}

@@ -1,0 +1,25 @@
+
+.bg1 {
+    height: 500px;
+    background-image: url(ağaç\ oturak.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.bg2 {
+    height: 500px;
+    background-image: url(gettyimages-1146431497.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.bg3 {
+    height: 500px;
+    background-image: url(alberta-2297204_1920.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

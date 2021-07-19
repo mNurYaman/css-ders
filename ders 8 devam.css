@@ -1,0 +1,90 @@
+/*
+* {
+    color: purple;
+ }
+
+
+div * {
+    color: pink;
+}
+
+
+h3, p, div{
+    color: red;
+}
+
+
+h3, p, div, .paragraf, #test {
+    color: orangered;
+}
+*/
+
+/*
+
+div {
+
+}
+b {
+
+}
+
+
+
+div b {
+    color: red;
+}
+
+
+
+.box b {
+    color: pink;
+}
+
+
+
+.box .bold {
+    color: purple;
+}
+
+*/
+
+/*
+
+p > b {
+    color: blue;
+}
+
+p > em {
+    color: red;
+}
+
+
+
+h3 + p {
+    color: red;
+}
+
+div + p span {
+    color: blue;
+}
+
+.box + p span {
+    color: green;
+}
+
+
+
+h3.box ~ p {
+    color: red;
+}
+
+ul li.list2 + li {
+    color: blue;
+}
+
+ul li.list2 ~ li {
+    color: green;
+}
+
+*/
+

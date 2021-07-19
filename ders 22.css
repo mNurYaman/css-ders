@@ -1,0 +1,65 @@
+/*
+
+div {
+    background: yellow;
+}
+
+.box::after {
+    content: attr(data-sonrası);
+    color: red;
+    background: blue;
+}
+
+
+
+.box::before {
+    content: attr(data-oncesi);
+    background: green;
+    color: white;
+}
+
+a[target="_blank"]::after {
+    content: '(' attr(href) ')';
+}
+
+p::first-letter {
+    color: red;
+    font-size: 40px;
+}
+
+
+
+p::first-line {
+    background: yellow;
+}
+
+
+
+::selection {
+    background: pink;
+    color: purple;
+}
+
+p::selection {
+    background: black;
+    color: white;
+}
+
+*/
+
+input {
+    color: red;
+}
+
+input::placeholder {
+    color: red;
+}
+
+textarea {
+    color: blue;
+}
+
+textarea::placeholder {
+    color: blue;
+    font-size: 20px;
+}

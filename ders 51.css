@@ -1,0 +1,306 @@
+/*
+
+html, body {
+    height: 100%;
+}
+div {
+    width: 50%;
+    height: 50%;
+    background-color: lime;
+}
+
+
+
+
+
+div {
+    max-width: 50%;
+    min-width: 300px;
+    background-color: lime;
+    min-height: 100px;
+    max-height: 600px;
+}
+
+*/
+
+
+/*
+
+div {
+    background-color: lime;
+    width: min-content;
+}
+
+.box1 {
+    background-color: lime;
+    width: min-content;
+}
+.box2 {
+    background-color: red;
+    writing-mode: vertical-lr;
+}
+
+*/
+
+
+/*
+
+div {
+    background-color: lime;
+    width: 200px;
+    height: 200px;
+    padding: 50px 100px 30px 20px;
+}
+    
+    padding-top: 50px;
+    padding-right: 100%;
+    padding-bottom: 15px;
+    padding-left: 100px;
+    
+
+*/
+
+
+/*
+
+div {
+    background-color: lime;
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+
+div {
+    background-color: lime;
+    margin: 50px 100px 70px 200px;
+}
+
+*/
+
+/*
+
+div {
+    width: 200px;
+    height: 200px;
+    background-color: lime;
+    margin: 50px auto;
+    border: 5px solid red;
+    
+
+    outline-style: dashed;
+    outline-width: 10px;
+    outline-color: green;
+    
+
+    outline: 10px solid green;
+    outline-offset: 10px;
+
+}
+
+*/
+
+
+/*
+
+* {
+    box-sizing: border-box;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    background-color: turquoise;
+    padding: 15px;
+    border: 10px solid wheat;
+}
+
+*/
+
+
+/*
+
+.box {
+    width: 300px;
+    height: 300px;
+    border: 10px double black;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 65px;
+}
+
+.box2 {
+    width: 300px;
+    height: 300px;
+    border: 10px double black;
+    border-top-left-radius: 50px 100px;
+}
+
+.box3 {
+    width: 300px;
+    height: 300px;
+    border: 10px double black;
+    border-radius: 50px 100px 80px 200px;
+}
+
+.box4 {
+    width: 300px;
+    height: 300px;
+    border: 10px double black;
+    border-radius: 300px;
+}
+
+img {
+    width: 200px;
+    height: 150px;
+    border-radius: 700px;
+}
+
+*/
+
+
+/*
+
+body {
+    font-family: 'Times New Roman', Times, serif
+}
+div {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+span {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+*/
+
+
+/*
+
+html {
+    font-size: 20px;
+}
+body {
+    font-size: 30px;
+}
+div {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+}
+div span {
+    font-size: 1rem;
+}
+div em {
+    font-size: 40px;
+}
+div strong {
+    font-size: 200%;
+}
+h6 {
+    font-size: 35px;
+}
+
+*/
+
+
+/*
+
+h3 {
+    font-style: oblique;
+}
+em {
+    font-style: normal;
+}
+
+*/
+
+
+/*
+
+div {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+div span {
+    font-variant: small-caps;
+}
+
+*/
+
+
+/*
+
+p {
+    line-height: 1.5;
+}
+
+*/
+
+
+/*
+
+    font-size
+    font-family
+    font-style
+    font-variant
+    font-weight
+    line-height
+
+
+p {
+    font: italic bold small-caps 30px/150% Arial, sans-serif;
+}
+
+*/
+
+
+/*
+
+h2 {
+    font-size: 20px;
+    letter-spacing: 1em;
+}
+
+*/
+
+
+/*
+
+p {
+    text-align: justify;
+}
+
+span {
+    text-align: justify;
+}
+
+p {
+    text-align-last: justify;
+}
+
+*/
+
+
+/*
+
+div {
+    margin-bottom: 15px;
+    text-decoration: underline overline lime wavy;
+}
+
+*/
+
+
+/*
+
+p {
+    text-indent: 30px;
+}
+
+*/
+
+
+
+

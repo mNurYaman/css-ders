@@ -1,0 +1,173 @@
+/*
+
+.list li:first-child {
+    background-color: yellow;
+}
+
+div ul:first-child {
+    background-color: red;
+}
+
+div:first-child {
+    background-color: blue
+}
+
+*/
+
+/*
+
+ul li:last-child {
+    background-color: yellow;
+}
+
+ul:last-child {
+    background-color: blue;
+}
+
+p:last-child {
+    background-color: red;
+}
+
+*/
+
+/*
+
+div:first-of-type {
+    background-color: yellow;
+}
+
+p:first-of-type {
+    background-color: blue;
+}
+
+*/
+
+/*
+
+div:last-of-type {
+    background-color: yellow;
+}
+
+*/
+
+/*
+
+ul li:nth-child(odd) {
+    background-color: lime;
+}
+ul li:nth-child(even) {
+    background-color: lime;
+}
+ul li:nth-child(3n) {
+    background-color: lime;
+}
+ul li:nth-child(3n+2) {
+    background-color: lime;
+}
+ul li:nth-child(n+4) {
+    background-color: lime;
+}
+ul li:nth-child(-n+8) {
+    background-color: lime;
+}
+ul li:nth-child(n+4):nth-child(-n+8) {
+    background-color: lime;
+}
+
+ul li:nth-child(n+4):nth-child(even):nth-child(-n+8) {
+    background-color: lime;
+}
+
+
+div:nth-child(4) {
+    background-color: lime;
+}
+
+
+
+div:nth-of-type(3) {
+    background-color: lime;
+}
+
+*/
+
+/*
+
+ul li:nth-last-child(3) {
+    background-color: yellow;
+}
+
+div:nth-last-child(1) {
+    background-color: yellow;
+}
+
+div:nth-last-of-type(1) {
+    background-color: yellow;
+}
+
+*/
+
+/*
+
+
+a:hover {
+    background-color: pink;
+}
+
+ul li:hover {
+    background-color: lime;
+}
+
+div:hover {
+    background-color: peru;
+}
+
+div span:hover {
+    background-color: plum;
+}
+
+button:hover + ul {
+    display: none;
+}
+
+p::selection {
+    background-color: lime;
+}
+p:hover::selection {
+    background-color: mediumaquamarine;
+}
+
+.url::after {
+    content: '(' attr(href) ')';
+}
+.url:hover::after {
+    display: none;
+}
+
+*/
+
+/*
+
+input[type="radio"]:checked + span {
+    color: green;
+}
+
+.checkbox {
+    display: none;
+}
+.button::before {
+    content: attr(data-hide);
+    background-color: red;
+}
+.checkbox:checked + .button::before {
+    content: attr(data-show);
+    background-color: lightsteelblue;
+}
+.checkbox:checked + .button + .box {
+    display: none;
+}
+
+*/
+
+
+

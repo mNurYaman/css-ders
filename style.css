@@ -1,0 +1,80 @@
+@import "test.css"
+@import url(test.css);
+
+/*
+
+body{
+    background-color: cadetblue;
+}
+
+
+
+h3{
+    color: red;
+}
+
+p{
+    color: purple;
+}
+
+li{
+    color: pink;
+}
+
+span{
+    color: green;
+}
+
+div{
+    color: blue;
+}
+
+
+DERS 6
+
+
+
+h3{
+    color: yellow;
+}
+#title {
+    color: green;
+}
+
+
+
+/*
+DERS7 
+*/
+
+
+h3{
+    color: blue;
+}
+p{
+    color: blue;
+}
+div{
+    color: blue;
+}
+
+
+.color-blue{
+    color: blue;
+}
+.text-bold {
+    font-weight: bold;
+}
+
+.color-blue.text-bold {
+    color: black;
+}
+
+p.color-blue.text-bold#paragraf3 {
+    color: purple;
+}
+
+#paragraf3 {
+    color: yellow;
+}
+*/

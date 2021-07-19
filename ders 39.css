@@ -1,0 +1,187 @@
+/*
+
+:focus {
+    outline: none;
+}
+
+button:focus {
+    background-color: blue;
+    color: white;
+}
+
+input:focus {
+   color: red;
+   border: green;
+}
+
+a:focus {
+    background-color: pink;
+}
+
+div:focus {
+    background-color: red;
+}
+
+li:focus {
+    background-color: teal;
+}
+
+ul:focus-within {
+    background-color: yellow;
+}
+
+*/
+
+
+/*
+
+div:only-child {
+    background-color: lime;
+}
+li:only-child {
+    background-color: yellow;
+}
+
+.box div:only-of-type {
+    background-color: lime;
+}
+
+*/
+
+
+/*
+
+abbr[title] {
+    background-color: yellow;
+}
+
+abbr:not([title]):not(.test):not(#test) {
+    background-color: lime;
+}
+
+*/
+
+
+/*
+
+li:empty {
+    display: none;
+}
+#total:empty {
+    display: none;
+}
+
+*/
+
+
+/*
+
+input:invalid {
+    border-color: red;
+}
+input:invalid + span::before {
+    content: '❌';
+    color: red;
+}
+input:valid {
+    border-color: green;
+}
+input:valid + span::before {
+    content: '✔';
+    color: green
+}
+
+*/
+
+
+/*
+
+.input1:enabled {
+    background-color: yellow;
+}
+.input1:disabled {
+    background-color: red;
+}
+.input2:optional {
+    background-color: yellow;
+}
+.input2:required {
+    background-color: red;
+}
+.input3:read-only {
+    background-color: gray;
+}
+.input3:read-write {
+    background-color: yellow;
+}
+p:read-only {
+    background-color: yellow;
+}
+p:read-write {
+    background-color: gray;
+}
+
+*/
+
+
+/*
+
+     :active
+     :link
+     :visited
+     :any-link
+
+
+
+.link1:active {
+    background-color: yellow;
+}
+.link2:link {
+    color:tomato;
+}
+.link2:visited {
+    color: pink;
+}
+nav a:any-link {
+    background-color: lime;   
+}
+
+*/
+
+
+/*
+
+p:target {
+    background-color: yellow;
+}
+
+*/
+
+
+/*
+
+input:in-range {
+    background-color: red;
+    color: white;
+}
+input:out-of-range {
+    background-color: blue;
+    color: white;
+}
+
+*/
+
+
+/*
+
+:root {
+    background-color: blue;
+}
+html {
+    background-color: red;
+}
+body {
+    background-color: green;
+}
+
+*/
